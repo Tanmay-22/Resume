@@ -1,0 +1,34 @@
+:root {
+    --top: #C6E7FF;
+    --sectop: #D4F6FF;
+    --tritop:#FBFBFB;
+    --footcol:#FFDDAE;
+  }
+.top-sec{
+    background-color:   var(--sectop);
+}
+.proj-sec{
+    background-color: white;
+}
+.contact-me{
+    background-color: white;
+}
+#profile-photo{
+    border-radius: 10;
+}
+
+span{
+    color: red;
+}
+ 
+.proj-sec .card {
+    padding: 6rem; /* Double the padding */
+  }
+  
+  .proj-sec h3 {
+    font-size: 3rem; /* Double the font size */
+  }
+  
+  .proj-sec ul {
+    font-size: 1.25rem; /* Increase font size for the text within the lists */
+  }
